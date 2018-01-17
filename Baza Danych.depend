@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1516051876 source:e:\pulpit\informatyka\c++\baza danych\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<conio.h>
+	<fstream>
+	<windows.h>
+
